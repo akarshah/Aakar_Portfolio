@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Aakar Shah</title>
+    <link>https://akarshah.github.io/Aakar_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Aakar Shah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://akarshah.github.io/Aakar_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 1: Investigating The Movie Database</title>
+      <link>https://akarshah.github.io/Aakar_Portfolio/post/project-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://akarshah.github.io/Aakar_Portfolio/post/project-1/</guid>
+      <description>This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. I have always been interested in movies and this dataset seems ideal opportunity to combine my love for Movies and Data Analytics.
+  Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://akarshah.github.io/Aakar_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akarshah.github.io/Aakar_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Website:    LinkedIn: https://www.linkedin.com/in/akar-shah/   GitHub: https://github.com/akarshah   Medium:     </description>
+    </item>
+    
+  </channel>
+</rss>
